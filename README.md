@@ -1,21 +1,25 @@
 # nb-maimaidx-install-problem
-插件仓库指路 [Yuri-YuzuChaN/nonebot-plugin-maimaidx](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx)
+**插件仓库指路 [Yuri-YuzuChaN/nonebot-plugin-maimaidx](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx)**
+
+**问题指路 [#69](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/issues/69)**
 
 在 Windows Python3.13.X 中，安装此插件可能会出现以下报错
 
 <a><img src='https://raw.githubusercontent.com/LeiSureLyYrsc/nb-maimaidx-install-problem/master/NumPy-Install-Field.png'></a>
 
-~~*我不知道原因，但我找到了解决方案，不要问我什么原因导致的T.T*~~
+解析为在安装 NumPy 缺少依赖导致的安装失败
 
-### Windows 解决方案
+~~*我不知道具体原因，但我找到了解决方案，不要问我什么原因导致的T.T*~~
+
+## Windows 解决方案
 
 ---
 
-##### 方法一
+### 方法一
 
-卸载 Python 3.13.X，安装 ＜3.13.X 版本的Python并重新安装插件(最高效)
+卸载 Python 3.13.X，安装 ＜3.13.X 版本的 Python 并重新安装插件(最高效)
 
-##### 方法二
+### 方法二
 
 下载 [Visual Studio Installer]([Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器](https://visualstudio.microsoft.com/zh-hans/))，安装 `Visual Studio Enterprise 2022`，选择 使用 `C++ 的桌面开发`，可选项选择 `MSVC` 和 `Windows SDK`，如下图
 
