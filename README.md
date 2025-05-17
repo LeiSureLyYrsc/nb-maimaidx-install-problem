@@ -21,7 +21,7 @@
 
 ### 方法二
 
-下载 [Visual Studio Installer]([Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器](https://visualstudio.microsoft.com/zh-hans/))，安装 `Visual Studio Enterprise 2022`，选择 使用 `C++ 的桌面开发`，可选项选择 `MSVC` 和 `Windows SDK`，如下图
+下载 [Visual Studio Installer](https://visualstudio.microsoft.com/zh-hans/)，安装 `Visual Studio Enterprise 2022`，选择 使用 `C++ 的桌面开发`，可选项选择 `MSVC` 和 `Windows SDK`，如下图
 
 
 
